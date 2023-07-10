@@ -19,4 +19,4 @@ Software to analyze, compare and validate analysis and reanalysis datasets with 
 
 # Programming language
 
-<img src="https://img.icons8.com/?size=512&id=13441&format=png" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="50"/>
