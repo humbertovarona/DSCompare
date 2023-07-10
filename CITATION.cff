@@ -1,0 +1,71 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Software to analyze, compare and validate analysis and reanalysis
+  datasets with an observed dataset (DSCompare)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Varona
+    given-names: Humberto L.
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Capuano
+    family-names: Tonia A.
+    email: toniacapuano@yahoo.it
+    affiliation: >-
+      Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS),
+      Toulouse Cedex 9, France.
+    orcid: 'https://orcid.org/0000-0003-4130-9154'
+  - given-names: Noriega
+    family-names: Carlos
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Julia
+    family-names: Araujo
+    email: juliamdearaujo@gmail.com
+    affiliation: >-
+      Brazilian Research network on Global Climate Change (Rede CLIMA),
+      São José dos Campos, SP, Brazil
+    orcid: 'https://orcid.org/0000-0001-8353-6254'
+  - given-names: Araujo
+    family-names: Moacyr
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+repository-code: 'https://doi.org/10.5281/zenodo.7823970'
+abstract: >-
+  Computational tool that analyzes, compares and validates analysis and
+  reanalysis datasets with an observed dataset using statistical tests
+  such as Mann Whitney (U-test), t-test, F-test, Root Mean Square Error (RMSE),
+  correlation coefficient, BIAS, normalized BIAS, trend, scatter index and
+  maximum anomalies.
+keywords:
+  - Analysis and reanalysis datasets
+  - Observed dataset
+  - Mann Whitney (U-test)
+  - t-test
+  - F-test
+  - Root Mean Square Error (RMSE)
+  - Correlation coefficient
+  - BIAS and normalized BIAS
+  - Trend
+  - Scatter index
+  - Maximum anomalies
+  - Oceanography
+  - Meteorology
+license: MIT
+version: '2.0'
+date-released: '2023-04-10'
