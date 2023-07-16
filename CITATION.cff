@@ -45,7 +45,14 @@ authors:
       Department of Oceanography. Federal University
       of Pernambuco. Recife-PE. Brazil
     orcid: 'https://orcid.org/0000-0001-8462-6446'
-repository-code: 'https://doi.org/10.5281/zenodo.7823970'
+  - given-names: Hernandez
+    family-names: Fabrice
+    email: fabrice.hernandez@ird.fr
+    affiliation: >-
+      Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS),
+      18 avenue Edouard Belin, 31401, Toulouse Cedex 9, France.
+    orcid: 'https://orcid.org/0000-0003-2152-0657'
+repository-code: 'https://doi.org/10.5281/zenodo.8152618'
 abstract: >-
   Computational tool that analyzes, compares and validates analysis and
   reanalysis datasets with an observed dataset using statistical tests
@@ -67,5 +74,5 @@ keywords:
   - Oceanography
   - Meteorology
 license: MIT
-version: '2.0'
-date-released: '2023-04-10'
+version: '2.1'
+date-released: '2023-05-05'
