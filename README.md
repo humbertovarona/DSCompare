@@ -1,4 +1,5 @@
 # DSCompare
+
 Software to analyze, compare and validate analysis and reanalysis datasets with an observed dataset
 
 # DOI
@@ -7,11 +8,11 @@ Software to analyze, compare and validate analysis and reanalysis datasets with 
 
 # Date-released 
 
-![](https://img.shields.io/badge/Release%20date-Apr%2C%2010%2C%202023-9cf)
+![](https://img.shields.io/badge/Release%20date-May%2C%2005%2C%202023-9cf)
 
 # Version
 
-![](https://img.shields.io/badge/Version%3A-2.0-success)
+![](https://img.shields.io/badge/Version%3A-2.1-success)
 
 # License
 
@@ -34,6 +35,9 @@ Matlab 2021b compatible software
 - Click on the "Install App" button
 - Select the DSCompare.mlappinstall file
 - In the Install dialog click on the "Install" button
+
+Create a directory and copy into it the following databases: gshhs_f_coast.mat, gshhs_f_rivers.mat, and wdb_f_borders.mat. hese 3 files can be downloaded from [https://zenodo.org/record/8152618](https://zenodo.org/record/8152618)
+
 
 ## How to run
 
