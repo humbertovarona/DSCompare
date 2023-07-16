@@ -4,7 +4,7 @@ Software to analyze, compare and validate analysis and reanalysis datasets with 
 
 # DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7823970.svg)](https://doi.org/10.5281/zenodo.7823970)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8152618.svg)](https://doi.org/10.5281/zenodo.8152618)
 
 # Date-released 
 
